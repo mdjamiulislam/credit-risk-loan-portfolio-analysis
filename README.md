@@ -558,30 +558,29 @@ The results in this project describe **historical associations** and should not 
 The planned repository structure is:
 
 ```text
-Credit-Risk-Loan-Portfolio-Analysis/
-│
-├── README.md
-│
-├── sql/
-│   ├── 01_database_and_staging.sql
-│   ├── 02_data_profiling.sql
-│   ├── 03_build_loans_clean.sql
-│   ├── 04_loan_performance.sql
-│   ├── 05_portfolio_risk_analysis.sql
-│   └── 06_powerbi_preparation.sql
+credit-risk-loan-portfolio-analysis/
 │
 ├── powerbi/
-│   └── Credit_Risk_Loan_Portfolio_Dashboard.pbix
+│   └── README.md
 │
 ├── screenshots/
-│   ├── 01_portfolio_overview.png
-│   ├── 02_credit_risk_drivers.png
-│   ├── 03_borrower_loan_analysis.png
-│   ├── 04_exposure_vintage_risk.png
-│   └── 05_data_quality_methodology.png
+│   ├── 01_Portfolio_Overview.png
+│   ├── 02_Credit_Risk_Drivers.png
+│   ├── 03_Borrower_Loan_Analysis.png
+│   ├── 04_Exposure_Vintage_Risk.png
+│   ├── 05_Data_Quality_Methodology.png
+│   └── README.md
 │
-├── documentation/
-│   └── Lending_Club_145_Column_Profile.csv
+├── sql/
+│   ├── 01_Database_and_Staging_Design.sql
+│   ├── 02_Lending_Club_145_Column_Profile.sql
+│   ├── 03_Build_Loans_Clean.sql
+│   ├── 04_Loan_Performance.sql
+│   ├── 05_Portfolio_Risk_Analysis.sql
+│   ├── 06_PowerBI_Preparation.sql
+│   └── README.md
 │
-└── data/
-    └── README.md
+└── README.md
+```
+
+Power BI file note: The .pbix development file is approximately 128 MB and is retained locally due to GitHub file-size limitations. Final dashboard outputs are available in the screenshots/ folder.
