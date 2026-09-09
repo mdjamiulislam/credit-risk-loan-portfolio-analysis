@@ -283,7 +283,7 @@ Main visuals include:
 - Annual Loan Origination Trend
 - Current Outstanding Exposure
 
-![Portfolio Overview](screenshots/01_portfolio_overview.png)
+![Portfolio Overview](screenshots/01_Portfolio_Overview.png)
 
 ---
 
@@ -300,7 +300,7 @@ The page analyses:
 - Credit Grade × DTI
 - Credit History Length
 
-![Credit Risk Drivers](screenshots/02_credit_risk_drivers.png)
+![Credit Risk Drivers](screenshots/02_Credit_Risk_Drivers.png)
 
 ---
 
@@ -317,7 +317,7 @@ The page analyses:
 - Bankruptcy History
 - Recent Credit Enquiries
 
-![Borrower & Loan Analysis](screenshots/03_borrower_loan_analysis.png)
+![Borrower Loan Analysis](screenshots/03_Borrower_Loan_Analysis.png)
 
 ---
 
@@ -339,7 +339,7 @@ The page includes:
 - State Risk vs Outstanding Exposure
 - Top States by Watchlist Exposure
 
-![Exposure & Vintage Risk](screenshots/04_exposure_vintage_risk.png)
+![Exposure Vintage Risk](screenshots/04_Exposure_Vintage_Risk.png)
 
 ---
 
@@ -363,7 +363,7 @@ Power BI Dashboard
 
 The page also documents data-cleaning rules, performance classification, resolved-loan methodology and quality-assurance controls.
 
-![Data Quality & Methodology](screenshots/05_data_quality_methodology.png)
+![Data Quality Methodology](screenshots/05_Data_Quality_Methodology.png)
 
 ---
 
